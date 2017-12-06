@@ -6,11 +6,13 @@
 |   2      |    Karthik Yarlapragada          |
 
 1.What are Convolutional Neural Networks?
+
 Answer: 
 In machine learning, a convolutional neural network (CNN, or Conv Net) is a class of deep, feed-forward artificial neural networks that has successfully been applied to analyzing visual imagery. CNNs use a variation of multilayer perceptron’s designed to require minimal preprocessing. 
 Reference: https://en.wikipedia.org/wiki/Convolutional_neural_network
 
 2.What are Deconvolutional networks?
+
 Answer:
 Deconvolutional networks (De Conv Nets) have been proposed to visualize image patterns that strongly activate any given neuron in a Convolutional Neural Networks and therefore shed some light on the Convolutional Neural Networks structure. However, the De Conv Net construction is partially heuristic and so are the corresponding visualizations.
 Reference: https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/mahendran16salient.pdf 
