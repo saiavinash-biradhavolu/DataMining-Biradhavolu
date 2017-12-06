@@ -1,7 +1,8 @@
-#Name: Sai Avinash Reddy Biradhavolu
+#Group_Project: 
 
-#Mwsu_Id: M20228929
+Muni Bhupathi Reddy Dandu     (M20228454)
 
-#Program: belgian_sign_classification
+Sai Avinash Reddy Biradhavolu (M20228929)
 
-#Individual Project
+Karan Madishetty              (M20228991)
+
