@@ -1,4 +1,5 @@
 # Import `tensorflow`
+# Import the flow
 import tensorflow as tf 
 # Import the `pyplot` module of `matplotlib`
 import matplotlib.pyplot as plt
